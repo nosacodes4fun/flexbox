@@ -1,1 +1,1 @@
-# flexbox
+# Playing around flexbox in CSS. I love the concept of flexbox as opposed to float, I love the flexibility and total control it offers me. I'm having so much fun with this!
